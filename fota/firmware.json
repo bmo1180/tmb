@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/bmo1180/tmb/master/fota/tmb_v2.bin"
+    "bin": "/bmo1180/tmb/master/fota/tmb_2.bin"
 }
