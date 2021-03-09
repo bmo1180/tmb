@@ -1,7 +1,0 @@
-{
-    "type": "tmb",
-    "version": 2,
-    "host": "raw.githubusercontent.com",
-    "port": 443,
-    "bin": "/bmo1180/tmb/master/fota/tmb_2.bin"
-}
