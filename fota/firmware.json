@@ -1,0 +1,7 @@
+{
+    "type": "tmb",
+    "version": 2,
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/fota/firmwarev_2.bin"
+}
