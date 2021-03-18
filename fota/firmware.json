@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/fota/firmwarev_2.bin"
+    "bin": "/bmo1180/tmb/master/fota/firmwarev_2.bin"
 }
