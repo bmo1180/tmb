@@ -1,7 +1,7 @@
 {
     "type": "MINIBUOY",
     "version": 2,
-    "host": "raw.githubusercontent.com",
+    "host": "https://github.com/bmo1180/tmb/tree/master/fota",
     "port": 443,
     "bin": "/bmo1180/tmb/master/fota/firmware.bin"
 }
