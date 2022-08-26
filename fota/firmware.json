@@ -1,7 +1,7 @@
 {
-    "type": "tmb",
-    "version": 2.0.0,
+    "type": "MINIBUOY",
+    "version": 1.0.1,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/bmo1180/tmb/master/fota/FW.bin"
+    "bin": "/bmo1180/tmb/master/fota/firmware.bin"
 }
